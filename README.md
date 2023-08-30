@@ -7,7 +7,7 @@
 <body>
 
 <div class="center">
-  <img src="https://github.com/nibras28/nibrasbuhari/blob/main/house1.gif" alt="House Image">
+  <img src="https://github.com/nibras28/nibras28/blob/main/house1.gif" alt="House Image">
 </div>
 
 </body>
